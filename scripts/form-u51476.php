@@ -25,8 +25,8 @@ $form = array(
 		'unknown_method' => 'Unknown server request method'
 	),
 	'email' => array(
-		'from' => 'test@mail.com',
-		'to' => 'test@mail.com'
+		'from' => 'admin@workplace.tools',
+		'to' => 'alicewilliam63@gmail.com '	
 	),
 	'fields' => array(
 		'custom_U51494' => array(

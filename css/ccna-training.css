@@ -1702,6 +1702,7 @@
 	left: 147px;
 	margin-top: 36px;
 	position: relative;
+	top: 0px;
 }
 
 #u46338
@@ -5256,19 +5257,29 @@
 {
 	z-index: 569;
 }
-
+.ContainerGroup{
+	border-top: 7px solid #239ba6 !important;
+}
 #u46287
 {
-	z-index: 570;
-	width: 410px;
-	height: 562px;
+	z-index: 827;
+	width: 650px;
+	height: 300px;
 	border-width: 0px;
 	border-color: transparent;
-	background-color: #ECECEC;
+	background-color: #FFFFFF;
 	margin-right: -10000px;
 	position: relative;
 	top: 22px;
 	left: 22px;
+}
+#u46287 h2{
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #000;
+	font-weight: bold;
+	padding: 15px 0px 0px 118px;
+	margin: 25px;
 }
 
 #widgetu46288
@@ -6087,19 +6098,22 @@
 
 #u46285-4
 {
-	z-index: 647;
-	width: 20px;
+	background-color: #239ba6;
+	border-radius: 20px;
+	color: white;
+	font-family: passion-one,sans-serif;
+	font-size: 14px;
+	font-weight: bolder;
+	height: 28px;
+	left: 226px;
+	line-height: 27px;
+	margin-right: -10010px;
+	margin-top: 14px;
 	min-height: 18px;
-	background-color: transparent;
-	line-height: 18px;
-	color: #E7E7E7;
-	font-size: 18px;
-	text-align: center;
-	font-family: passion-one, sans-serif;
-	font-weight: 700;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 4px;
+	text-align: center;
+	width: 28px;
+	z-index: 904;
 }
 
 #u51523-4:active,#u46285-4:hover
@@ -6267,16 +6281,24 @@
 
 #u46237
 {
-	z-index: 938;
-	width: 410px;
-	height: 562px;
+	z-index: 827;
+	width: 650px;
+	height: 300px;
 	border-width: 0px;
 	border-color: transparent;
-	background-color: #ECECEC;
+	background-color: #FFFFFF;
 	margin-right: -10000px;
 	position: relative;
 	top: 22px;
 	left: 22px;
+}
+#u46237 h2{
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #000;
+	font-weight: bold;
+	padding: 15px 0px 0px 118px;
+	margin: 25px;
 }
 
 #widgetu46238
@@ -7261,19 +7283,49 @@
 
 #u46280-4
 {
-	z-index: 1015;
-	width: 20px;
+	background-color: #239ba6;
+	border-radius: 20px;
+	color: white;
+	font-family: passion-one,sans-serif;
+	font-size: 14px;
+	font-weight: bolder;
+	height: 28px;
+	left: 226px;
+	line-height: 27px;
+	margin-right: -10010px;
+	margin-top: 14px;
 	min-height: 18px;
-	background-color: transparent;
-	line-height: 18px;
-	color: #E7E7E7;
-	font-size: 18px;
-	text-align: center;
-	font-family: passion-one, sans-serif;
-	font-weight: 700;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 4px;
+	text-align: center;
+	width: 28px;
+	z-index: 904;
+}
+
+#schedule-div{
+	margin-top: 30px;
+	margin-left: 140px;
+}
+
+#schedule-div p{
+	font-size: 15px;
+	line-height: 1.8;
+	text-transform: none;
+	text-align: left;
+	margin-left: 40px;
+	margin-top: 5px;
+}
+#schedule-timezone{
+	margin-top: 30px;
+	margin-left: 140px;
+}
+
+#schedule-timezone p{
+	font-size: 15px;
+	line-height: 1.8;
+	text-transform: none;
+	text-align: left;
+	margin-left: 40px;
+	margin-top: 5px;
 }
 
 #u46285-4:active,#u46280-4:hover

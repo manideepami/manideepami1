@@ -25,8 +25,8 @@ $form = array(
 		'unknown_method' => 'Unknown server request method'
 	),
 	'email' => array(
-		'from' => 'chikkieater@mailinator.com',
-		'to' => 'chikkieater@mailinator.com'
+		'from' => 'admin@workplace.tools',
+		'to' => 'alicewilliam63@gmail.com '	
 	),
 	'fields' => array(
 		'Email' => array(
